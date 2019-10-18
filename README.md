@@ -7,7 +7,7 @@
 
 ## My Blog
 
-Think ML - https://goodboyanush.github.io/
+Think ML - https://medium.com/@nsiddharthasharma/why-machine-learning-2023938fd9f9
 
 ## Course Overview
 
