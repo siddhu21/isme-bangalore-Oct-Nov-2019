@@ -9,6 +9,7 @@
 
 Think ML - https://medium.com/@nsiddharthasharma/why-machine-learning-2023938fd9f9
 Linear Vs Logistic - https://medium.com/@nsiddharthasharma/linear-regression-vs-logistic-regression-384afafb0471
+Coding Done!!!
 
 ## Course Overview
 
