@@ -10,7 +10,8 @@
 Think ML - https://medium.com/@nsiddharthasharma/why-machine-learning-2023938fd9f9
 Linear Vs Logistic - https://medium.com/@nsiddharthasharma/linear-regression-vs-logistic-regression-384afafb0471
 Coding Done!!!
-
+Regression Vs Neural Networks-- https://medium.com/@nsiddharthasharma/regression-vs-neural-networks-f8e854b8bef5
+Kernel Trick--- https://medium.com/@nsiddharthasharma/how-to-classify-non-linear-data-to-linear-data-bb2df1a6b781
 ## Course Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
