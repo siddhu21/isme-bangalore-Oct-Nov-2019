@@ -12,6 +12,7 @@ Linear Vs Logistic - https://medium.com/@nsiddharthasharma/linear-regression-vs-
 Coding Done!!!
 Regression Vs Neural Networks-- https://medium.com/@nsiddharthasharma/regression-vs-neural-networks-f8e854b8bef5
 Kernel Trick--- https://medium.com/@nsiddharthasharma/how-to-classify-non-linear-data-to-linear-data-bb2df1a6b781
+Decision Tree-- https://medium.com/@nsiddharthasharma/advanced-machine-learning-algorithms-6b3c51b4b0bf
 ## Course Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
